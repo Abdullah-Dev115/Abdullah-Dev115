@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in muliple tech fields! mobile apps Development, Desktop apps, operating systems
 - 🌱 I’m currently learning TypeScript a little bit...
-- 👨‍💻 All of my projects are available at [iAbdullah.dev](iAbdullah.dev)
+- 👨‍💻 All of my projects are available at [iAbdullah.dev](https://iAbdullah.dev)
 
 - 📄 Know about my experiences [CV](https://iAbdullah.dev/Media/Abdullah-Almohsen.pdf)
 
